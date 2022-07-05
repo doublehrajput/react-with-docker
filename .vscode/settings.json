@@ -1,0 +1,22 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "files.exclude": {
+    "node_modules": true,
+    "build": true
+  },
+  "material-icon-theme.folders.color": "#ef5350",
+  // "material-icon-theme.saturation": 0.5,
+  "material-icon-theme.files.associations": {
+    "./src/components/**/*.js": "react",
+    "./src/hooks/**/*.js": "react",
+    "setUpTests.js": "jest"
+  },
+  "material-icon-theme.folders.associations": {
+    "redux": "redux-store",
+    "patterns": "container",
+  },
+  // "material-icon-theme.opacity": 0.5
+}
